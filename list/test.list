@@ -1,15 +1,15 @@
 IP-CIDR,142.251.215.0/24,no-resolve
 
 DOMAIN-SUFFIX,vultr.com
-DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,ipw.cn
+#DOMAIN-SUFFIX,test-ipv6.com
+#DOMAIN-SUFFIX,ipw.cn
 
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,speedcheck.org
 DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,speedtest.cn
-DOMAIN-SUFFIX,ustc.edu.cn
+#DOMAIN-SUFFIX,speedtest.cn
+#DOMAIN-SUFFIX,ustc.edu.cn
 DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,browserleaks.com
@@ -43,5 +43,5 @@ DOMAIN-SUFFIX,ip111.cn
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,incolumitas.com
-DOMAIN-SUFFIX,incolumitas.com
-DOMAIN-SUFFIX,incolumitas.com
+#DOMAIN-SUFFIX,incolumitas.com
+#DOMAIN-SUFFIX,incolumitas.com
